@@ -317,4 +317,4 @@ The scores come from the thesis harness applied unchanged to both systems. The h
 
 ## License
 
-Released under the MIT License. See [LICENSE](LICENSE). If your program or institution requires a different license, replace that file before publishing.
+Released under the MIT License. See [LICENSE](LICENSE). 
